@@ -8,7 +8,7 @@ Original Website: https://www.mintlify.com/
 
 ## Demo
 
-🔗 Live : 
+🔗 Live : https://jolly-moonbeam-c70e70.netlify.app/
 
 ---
 
